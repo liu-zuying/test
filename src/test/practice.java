@@ -1,12 +1,11 @@
 //子类可以赋给父类
-//小孩
 package test;
 
 
  class A
 {
 	
-	 void f()//小孩
+	 void f()
 	 {
 		System.out.println("A");
 	 }
