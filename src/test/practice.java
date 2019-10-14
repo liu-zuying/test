@@ -6,7 +6,7 @@ package test;
  class A
 {
 	
-	 void f()
+	 void f()//Ð¡º¢
 	 {
 		System.out.println("A");
 	 }
